@@ -9,4 +9,5 @@ Create a piano player with DOM events in JavaScript
   <li>Use of event.target</li>
 </ul>
 <h2>Demo</h2>
+
 ![Piano Keys Demo](pianokeysdemo.gif)
