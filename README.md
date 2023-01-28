@@ -1,6 +1,6 @@
 # piano-keys
 Create a piano player with DOM events in JavaScript
-<h2>Properites</h2>
+<h2>Features</h2>
 <ul>
   <li>Piano key background change color onmousedown (key pressed) or onmouseup (key released)</li>
   <li>getElementById to grab elment and change display properties or innerHTML</li>
